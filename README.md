@@ -14,6 +14,7 @@ During 2018-2020, I tried to find my own path and took a deep dive into the worl
 In my works, I try to draw perspectives from so many different yet intriguing areas such of Software Development, Technology, Human behaviour, Psychology, Digital Content Creation & Consumption, Minimalism & Essentialism, Nature, Travel and so many other avenues of life-experiences. I am driven by this zeal of creating something meaningful and timeless.
 
 I am currently based on Kathmandu, Nepal. However, sometimes you might find me hiking around the foothills of Himalayas. I love trekking, reading books, coffee, colours, conversation and adventure. I certainly don’t mind relocation in a Post-COVID world however Remote-work is the way to go now.
+
 ---
 
 ### Find me around the web
