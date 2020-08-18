@@ -9,26 +9,15 @@ Experienced in building React & Node Applications for American Health Care Compa
 
 ## SKILLSET
 
-**Programming Languages**
+**Programming Languages** JavaScript ES6, HTML, CSS, Sass, Python, Java, C, C++, SQL
 
-JavaScript ES6, HTML, CSS, Sass, Python, Java, C, C++, SQL
+**Libraries & Frameworks** React, Redux, Gatsby, D3, jQuery, Bootstrap, Node, Express, Mongoose, Django
 
-**Libraries & Frameworks**
+**Databases** PostGreSQL, MySQL, MongoDB
 
-React, Redux, Gatsby, D3, jQuery, Bootstrap, Node, Express, Mongoose, Django
+**Tools & Platforms** ESlint, Prettier, Parcel, Babel, Webpack, Bash, Git, Postman, Jira
 
-**Databases**
-
-PostGreSQL, MySQL, MongoDB
-
-**Tools & Platforms**
-
-ESlint, Prettier, Parcel, Babel, Webpack, Bash, Git, Postman, Jira
-
-**Currently Learning**
-
-TypeScript, GraphQL, TailWind 
-
+**Currently Learning** TypeScript, GraphQL, TailWind 
 
 <!-- I am a keen modern-day youth with a degree in Computer Science Engineering and a passionate digital content creator. -->
 
