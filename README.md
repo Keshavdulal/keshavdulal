@@ -1,7 +1,15 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
 > _Actively Looking for [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)_
 ## Hi, I'm Keshav 👋
 
 **Frontend Software Engineer**
+
+<!-- <i class="fa fa-play-circle"></i> -->
+<!-- <i class="fa fa-camera"></i> -->
+
+<i class="fa fa-github"></i>
+<i class="fa fa-twitter"></i>
 
 Experienced in building React & Node Applications for American Health Care Companies & Educational Institutions. Love working in a team and build innovative products.
 
@@ -34,7 +42,7 @@ Experienced in building React & Node Applications for American Health Care Compa
 <!-- ### Find me around the web -->
 <!-- Engineering -->
 
-[Github](https://github.com/Keshavdulal) | [Stack Overflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [LinkedIn](https://linkedin.com/keshavdulal)
+[Stack Overflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [LinkedIn](https://linkedin.com/keshavdulal) | [Github](https://github.com/Keshavdulal) | [Twitter](https://twitter.com/keshavdulal)
 
 <!-- Film-making / Photography / Writing -->
 
