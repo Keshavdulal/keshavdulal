@@ -7,8 +7,6 @@ Experienced in building React & Node Applications for American Health Care Compa
 
 ---
 
-## SKILLSET
-
 **Programming Languages** JavaScript ES6, HTML, CSS, Sass, Python, Java, C, C++, SQL
 
 **Libraries & Frameworks** React, Redux, Gatsby, D3, jQuery, Bootstrap, Node, Express, Mongoose, Django
