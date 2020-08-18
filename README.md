@@ -4,8 +4,6 @@
 
 ## Frontend Software Engineer
 
---- 
-
 Experienced in building React & Node Applications for American Health Care Companies & Educational Institutions. Love working in a team and build innovative products.
 
 ---
