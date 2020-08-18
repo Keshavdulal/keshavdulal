@@ -1,15 +1,40 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
 > _Actively Looking for [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)_
-## Hi, I'm Keshav 👋
 
-**Frontend Software Engineer**
 
-<!-- <i class="fa fa-play-circle"></i> -->
-<!-- <i class="fa fa-camera"></i> -->
+<h1 style="float:right; border-bottom:none">
+    <a href="https:keshavdulal.com.np"><i class="fas fa-link"></i></a>&nbsp
+    <a href="https://github.com/Keshavdulal"><i class="fab fa-github"></i></a>&nbsp
+    <a href="https://stackoverflow.com/users/3556531/keshavdulal"><i class="fab fa-stack-overflow"></i></a>&nbsp
+    <a href="https://linkedin.com/keshavdulal"><i class="fab fa-linkedin"></i></a>&nbsp
+    <a href="https://twitter.com/keshavdulal"><i class="fab fa-twitter"></i></a>&nbsp
+</h1>
 
-<i class="fa fa-github"></i>
-<i class="fa fa-twitter"></i>
+# 👋 Hi, I'm Keshav  
+
+<h2 style="float:right;">
+<i class="fab fa-react"></i>
+<i class="fab fa-node-js"></i>
+<i class="fab fa-js-square"></i>
+<i class="fa fa-dash"></i>
+<!-- <i class="fab fa-python"></i> -->
+&nbsp
+<i class="fas fa-code-branch"></i>
+<!-- <i class="fab fa-jira"></i> -->
+<i class="fab fa-slack-hash"></i>
+<!-- &nbsp -->
+
+<!-- <i class="fab fa-html5"></i> -->
+<!-- <i class="fab fa-css3-alt"></i> -->
+<!-- <i class="fab fa-sass"></i> -->
+<!-- <i class="fab fa-npm"></i> -->
+<!-- <i class="fas fa-terminal"></i> -->
+</h2>
+
+## Frontend Software Engineer**
+
+--- 
 
 Experienced in building React & Node Applications for American Health Care Companies & Educational Institutions. Love working in a team and build innovative products.
 
@@ -42,7 +67,7 @@ Experienced in building React & Node Applications for American Health Care Compa
 <!-- ### Find me around the web -->
 <!-- Engineering -->
 
-[Stack Overflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [LinkedIn](https://linkedin.com/keshavdulal) | [Github](https://github.com/Keshavdulal) | [Twitter](https://twitter.com/keshavdulal)
+<!-- [Stack Overflow](https://stackoverflow.com/users/3556531/keshavdulal) | [LinkedIn](https://linkedin.com/keshavdulal) | [Github](https://github.com/Keshavdulal) | [Twitter](https://twitter.com/keshavdulal) -->
 
 <!-- Film-making / Photography / Writing -->
 
