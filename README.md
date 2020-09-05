@@ -1,4 +1,4 @@
-> _Open to [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)_
+<!-- > _Open to [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)_ -->
 
 # 👋 Hi, I'm Keshav  
 
