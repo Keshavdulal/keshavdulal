@@ -30,12 +30,12 @@ Areas | Details
 <!-- > [YouTube](https://www.youtube.com/keshavdulal) | [Instagram](https://www.instagram.com/keshav.dulal) | [Medium](https://medium.com/@keshavdulal) -->
 
 ## Stats
-<!-- https://github.com/ryo-ma/github-profile-trophy#specify-the-maximum-row--column-size -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavdulal&row=1&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=keshavdulal&show_icons=true&count_private=true&theme=gradient) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdulal&count_private=true&layout=compact&theme=gradient) 
+![](https://github-readme-stats.vercel.app/api?username=keshavdulal&show_icons=true&count_private=true&theme=onedark) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdulal&count_private=true&layout=compact&theme=onedark) 
+
+<!-- https://github.com/ryo-ma/github-profile-trophy#specify-the-maximum-row--column-size -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=keshavdulal&row=1&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://hits.seeyoufarm.com/ -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshavdulal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ghProfileVisits&edge_flat=false)](https://hits.seeyoufarm.com)
