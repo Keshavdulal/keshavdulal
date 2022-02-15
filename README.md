@@ -2,8 +2,9 @@
 
 ## FullStack JavaScript Engineer // Consultant
 
-- Experienced in building modern web & mobile applications
+- Experienced in building modern applications on web & mobile
 - React / React Native / NextJS / GraphQL / Node / Firebase,
+- Proficient in rapid prototyping / MVP,
 - Enjoy working in teams,
 - Attention to detail,
 - Ownership to Work,
