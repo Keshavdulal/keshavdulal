@@ -2,10 +2,12 @@
 
 ## FullStack JavaScript Engineer // Consultant
 
-- Experienced in building modern web & mobile application on React x Node,
-- Enjoy working in a team,
+- Experienced in building modern web & mobile applications
+- React / React Native / NextJS / GraphQL / Node / Firebase,
+- Enjoy working in teams,
+- Attention to detail,
+- Ownership to Work,
 - Love teaching & sharing → [YourAverageProgrammer](https://www.youtube.com/channel/UC19U_d3EDdiwBw_P5Md1WGg)
-- Pays attention to detail,
 - Familiar with Health, Education, Real Estate, ECommerce, Photography, Filmmaking & Construction sector.
 - Open to [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)
 
