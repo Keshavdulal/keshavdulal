@@ -10,7 +10,7 @@
 - Ownership to Work,
 - Love teaching & sharing → [YourAverageProgrammer](https://www.youtube.com/channel/UC19U_d3EDdiwBw_P5Md1WGg)
 - Familiar with Health, Education, Real Estate, ECommerce, Photography, Filmmaking & Construction sector.
-- Open to [Remote Work Oppurtunities](mailto:keshav.dulal@gmail.com)
+- Open to [Remote Work Opportunities](mailto:keshav.dulal@gmail.com)
 
 ---
 
