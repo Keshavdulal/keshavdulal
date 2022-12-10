@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keshav  
 
-## FullStack JavaScript Engineer // Consultant
+## FullStack TypeScript Engineer // Consultant
 
 - Experienced in building modern applications on web & mobile
 - React / React Native / NextJS / GraphQL / Node / Firebase,
